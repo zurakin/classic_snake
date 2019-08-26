@@ -1,0 +1,2 @@
+this is a customisable snake game where you can choose the size of the screen, the speed of the snake the number of blocks you want to have.
+to change game options just open the constantes.py file and change values there.
